@@ -6,12 +6,13 @@ Here, I try to create a horror environment (A man on the street at midnight in f
 ## Project description
 Name: Horror-Environment-Blender <br>
 Software: Blender <br>
-Platfrom: 3D
+Platfrom: 3D<br>
 Project No: update me<br>
 Year: 2020
  
  
 ## Demo Video
+*this can take some time to load. (Slow to start)
 <img src="demo/thevideo.gif" alt="Home Screen" width="800"/>
 
 ## Screen shot
