@@ -12,7 +12,7 @@ Year: 2020
  
  
 ## Demo Video
-<img src="demo/video.gif" alt="Home Screen" width="800"/>
+<img src="demo/thevideo.gif" alt="Home Screen" width="800"/>
 
 ## Screen shot
 
@@ -24,7 +24,7 @@ Year: 2020
 
 
 ## 3D file
-* **[Monster and man](https://github.com/XAbirHasan/Simulation/blob/master/Source%20code/chemical_reaction.ipynb)**
+* **[Monster and man](https://github.com/XAbirHasan/HorrorEnviroment-Blender/blob/master/3D%20file/Monster%20and%20man.fbx)**
 
 
 ## Authors
